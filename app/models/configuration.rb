@@ -1,0 +1,1 @@
+Configuration = Class.new(CoverageItem)
